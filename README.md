@@ -1,5 +1,4 @@
-
-upyter notebooks are provided to reproduce the analysis: assembling the texts, extracting quotations, getting LLM logits for the quotations, and forming the analysis on LLM surprisals.  Additionally, the resultant quotation collections and corresponding LLM normalised logits are also made available.
+Jupyter notebooks are provided to reproduce the analysis: assembling the texts, extracting quotations, getting LLM logits for the quotations, and forming the analysis on LLM surprisals.  Additionally, the resultant quotation collections and corresponding LLM normalised logits are also made available.
 
 # Extracting quotation sets
 
@@ -84,6 +83,9 @@ In [RQ1.ipynb](Analysis/llama3.1_70B/RQ1.ipynb), the following is done:
 
 - for each targeted variation (each identified phonological variation and targeted dialectical), build a [collection of quotations with each separate variation corrected](Analysis/llama3.1_70B/RQ1_downstream/all_corrected.json), and [corresponding normalised sub-word logits](Analysis/llama3.1_70B/RQ1_downstream/chains_llama3.1_70B_all_corrected.json) via [script](Analysis/llama3.1_70B/RQ1_downstream/score_with_llama3.py) run on snellius, python3 3.11.4, with [these pip requirements](snellius_requirements.txt). For each variation, calculate the contribution of the variation to $S_{n-word} - S_{normative\ reference\ speaker}$, and rank the variations by this contribution.
 
+
+Note: pymc traces can be found [here](https://drive.google.com/drive/folders/1Kkpda-gFMzFRRZj32ugjYfW-O_6-5NLR?usp=drive_link)
+
 ## RQ2
 
 RQ: which named speakers in American literature fiction, are shown to be most strongly associated with those same linguistic variations that distinguish $n$-word attributed quotations from normative reference speakers.
@@ -117,3 +119,6 @@ In [RQ3.ipynb](Analysis/llama3.1_70B/RQ3.ipynb) we:
 - build a [set of quotations corrected each phonological and targeted dialectical variation](Analysis/llama3.1_70B/RQ3_downstream/all_corrected.json). We then get the [corresponding normalised logits](Analysis/llama3.1_70B/RQ3_downstream/chains_llama3.1_70B_all_corrected.json) via [this script](Analysis/llama3.1_70B/RQ3_downstream/score_with_llama3.py), run on snellius python 3.11.4 with [these pip requirements](snellius_requirements.txt)
 
 - for each variation in the American literature fiction quotations attributed to $n$-word speaker references, estimate the difference in contribution to the mean word LLM surprisal of the American literature fiction quotations versus those of the LOC quotations, attributed to $n$-word speaker referents. This is reproduced as Table 5 in the paper.
+
+
+Note: pymc traces can be found [here](https://drive.google.com/drive/folders/1-CREwprFlCkLvRKwcEQM5LzLPtr5rD9n?usp=drive_link)
