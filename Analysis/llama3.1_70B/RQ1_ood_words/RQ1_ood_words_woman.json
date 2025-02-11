@@ -1,0 +1,2411 @@
+{
+    "des":["does"],
+    "de":["the"],
+    "dey":["they"],
+    "dey's":["they's"],
+    "dey'll":["they'll"],
+    "dey'd":["they'd"],
+    "dis":["this"],
+    "dis'll":["this'll"],
+    "dis'd":["this'd"],
+    "dat":["that"],
+    "dat's":["that's"],
+    "dat'll":["that'll"],
+    "dat'd":["that'd"],
+    "De":["The"],
+    "Dey":["They"],
+    "Dey's":["They's"],
+    "Dey'll":["They'll"],
+    "Dey'd":["They'd"],
+    "Dis":["This"],
+    "Dis'll":["This'll"],
+    "Dis'd":["This'd"],
+    "Dat":["That"],
+    "Dat's":["That's"],
+    "Dat'll":["That'll"],
+    "Dat'd":["That'd"],
+    "ack": [
+        "act"
+    ],
+    "rewa'd": [
+        "reward"
+    ],
+    "yerself": [
+        "yourself"
+    ],
+    "childen": [
+        "children"
+    ],
+    "sence": [
+        "since"
+    ],
+    "childers": [
+        "children"
+    ],
+    "Shet": [
+        "Shut"
+    ],
+    "'s": [
+        "is"
+    ],
+    "hab": [
+        "have"
+    ],
+    "bresh": [
+        "brush"
+    ],
+    "anythin'": [
+        "anything"
+    ],
+    "darlint": [
+        "darling"
+    ],
+    "despoina": [],
+    "aint": [
+        "ain't"
+    ],
+    "ef": [
+        "if"
+    ],
+    "yit": [
+        "yet"
+    ],
+    "perliteness": [
+        "politeness"
+    ],
+    "libing": [
+        "living"
+    ],
+    "a-holdin'": [
+        "a-holding"
+    ],
+    "aout": [
+        "out"
+    ],
+    "Pow'ful": [
+        "Powerful"
+    ],
+    "fergive": [
+        "forgive"
+    ],
+    "nuss": [
+        "nurse"
+    ],
+    "yeth": [],
+    "ebening": [
+        "evening"
+    ],
+    "'Git": [
+        "Get"
+    ],
+    "erlive": [
+        "alive"
+    ],
+    "drag-gin'": [
+        "dragging"
+    ],
+    "sar": [
+        "sir"
+    ],
+    "smellin'": [
+        "smelling"
+    ],
+    "sor": [
+        "sir"
+    ],
+    "'specially": [
+        "especially"
+    ],
+    "Massa": [
+        "Master"
+    ],
+    "desput": [
+        "despately"
+    ],
+    "intrusted": [
+        "entrusted"
+    ],
+    "des": [
+        "just"
+    ],
+    "anudder": [
+        "another"
+    ],
+    "bil-ieve": [
+        "believe"
+    ],
+    "haow": [
+        "how"
+    ],
+    "blessin'": [
+        "blessing"
+    ],
+    "declarin'": [
+        "declaring"
+    ],
+    "aisy": [
+        "easy"
+    ],
+    "meself": [
+        "myself"
+    ],
+    "'tis": [
+        "it is"
+    ],
+    "b'lieve": [
+        "believe"
+    ],
+    "a-writin'": [
+        "a-writing"
+    ],
+    "pickin'": [
+        "picking"
+    ],
+    "makin'": [
+        "making"
+    ],
+    "wurrld": [
+        "world"
+    ],
+    "tu": [
+        "too"
+    ],
+    "'specked": [
+        "expected"
+    ],
+    "parler": [],
+    "mas'r": [
+        "master"
+    ],
+    "w'en": [
+        "when"
+    ],
+    "mebbe": [
+        "maybe"
+    ],
+    "arter": [
+        "after"
+    ],
+    "lef": [
+        "left"
+    ],
+    "chile": [
+        "child"
+    ],
+    "sumfin": [
+        "something"
+    ],
+    "Yurrup": [],
+    "bery": [
+        "very"
+    ],
+    "'Twasn't": [
+        "It wasn't"
+    ],
+    "daid": [
+        "dead"
+    ],
+    "'tached": [
+        "attached"
+    ],
+    "crassed": [
+        "crossed"
+    ],
+    "spreadin'": [
+        "spreading"
+    ],
+    "dan": [
+        "than"
+    ],
+    "'suade": [
+        "persuade"
+    ],
+    "'Sides": [],
+    "W'at": [
+        "What"
+    ],
+    "more'n": [
+        "more than"
+    ],
+    "ile": [],
+    "kase": [
+        "incase"
+    ],
+    "fambly": [
+        "family"
+    ],
+    "Whar's": [
+        "Where's"
+    ],
+    "agin": [
+        "again"
+    ],
+    "'bears": [],
+    "readin'": [
+        "reading"
+    ],
+    "Z'rilla": [],
+    "Ourn": [],
+    "Trevison": [],
+    "libery": [],
+    "purty": [
+        "pretty"
+    ],
+    "forgit": [
+        "forget"
+    ],
+    "cal'late": [
+        "calculate"
+    ],
+    "porely": [
+        "poorly"
+    ],
+    "wukkin": [
+        "workign"
+    ],
+    "Lorra": [
+        "Lord"
+    ],
+    "stayin": [
+        "staying"
+    ],
+    "ign'ant": [
+        "ignorant"
+    ],
+    "'possum": [
+        "opossum"
+    ],
+    "a-doin'": [
+        "a-doing"
+    ],
+    "furriners": [],
+    "hisself": [
+        "hisself"
+    ],
+    "Shure": [
+        "Sure"
+    ],
+    "boun'": [
+        "bound"
+    ],
+    "layin'": [
+        "laying"
+    ],
+    "happenin'": [
+        "happening"
+    ],
+    "speshul": [
+        "special"
+    ],
+    "consarned": [
+        "concerned"
+    ],
+    "Saviour": [
+        "Saviour"
+    ],
+    "wantin'": [
+        "wanting"
+    ],
+    "'ca'se": [
+        "because"
+    ],
+    "hebbinly": [
+        "heavenly"
+    ],
+    "d'ye": [
+        "do you"
+    ],
+    "craythur": [
+        "creature"
+    ],
+    "therd": [
+        "third"
+    ],
+    "h'all": [],
+    "t'ink": [
+        "think"
+    ],
+    "muckle": [],
+    "oor": [
+        "our"
+    ],
+    "masther": [
+        "masther"
+    ],
+    "Marse": [
+        "Master"
+    ],
+    "Oloff": [],
+    "funnerals": [
+        "funerals"
+    ],
+    "belebe": [],
+    "Munday": [
+        "Monday"
+    ],
+    "your'n": [
+        "your an"
+    ],
+    "nuthin'": [
+        "nothing"
+    ],
+    "'a": [],
+    "Lor'-a-mercy": [
+        "Lord-a-mercy"
+    ],
+    "ez": [
+        "as"
+    ],
+    "aroun'": [
+        "around"
+    ],
+    "thet": [
+        "that"
+    ],
+    "outa": [
+        "out of"
+    ],
+    "warpin'": [
+        "warping"
+    ],
+    "ther": [
+        "there"
+    ],
+    "sinkin'": [
+        "sinking"
+    ],
+    "caze": [
+        "because"
+    ],
+    "ma'y": [],
+    "mebby": [
+        "maybe"
+    ],
+    "'ligion": [
+        "religion"
+    ],
+    "rayther": [],
+    "Inguns": [],
+    "Cap'n": [
+        "Captain"
+    ],
+    "sholy": [
+        "surely"
+    ],
+    "erbody": [
+        "everybody"
+    ],
+    "yerbs": [],
+    "Cunnel's": [
+        "Colonel's"
+    ],
+    "Agapit": [],
+    "ingineeurs": [
+        "engineers"
+    ],
+    "chile'": [],
+    "haf": [
+        "have"
+    ],
+    "'bout": [
+        "about"
+    ],
+    "chillun": [
+        "children"
+    ],
+    "standin'": [
+        "standing"
+    ],
+    "alibe": [],
+    "'Rastus": [],
+    "wuz": [
+        "was"
+    ],
+    "bearin'": [
+        "bearing"
+    ],
+    "sairly": [],
+    "d'y": [
+        "do you"
+    ],
+    "snickerin'": [
+        "snickering"
+    ],
+    "wanter": [
+        "want to"
+    ],
+    "hea't": [
+        "heart"
+    ],
+    "shuah": [
+        "sure"
+    ],
+    "sunthin'": [
+        "something"
+    ],
+    "'th": [],
+    "ev": [],
+    "Mass'r": [
+        "Master"
+    ],
+    "beca'se": [
+        "because"
+    ],
+    "'Pears": [
+        "Appears"
+    ],
+    "whare": [
+        "where"
+    ],
+    "allus": [
+        "always"
+    ],
+    "belongin'": [
+        "belonging"
+    ],
+    "prop'ty": [
+        "property"
+    ],
+    "plagy": [],
+    "'kase": [
+        "incase"
+    ],
+    "Nothin'": [
+        "Nothing"
+    ],
+    "de'mergency": [
+        "the emergency"
+    ],
+    "w'at": [
+        "what"
+    ],
+    "sah": [
+        "sir"
+    ],
+    "'ware": [
+        "aware"
+    ],
+    "leavin'": [
+        "leaving"
+    ],
+    "han's": [
+        "hands"
+    ],
+    "ghos'": [
+        "ghost"
+    ],
+    "funnelly": [],
+    "p'raps": [
+        "perhaps"
+    ],
+    "Deh": [
+        "They"
+    ],
+    "Zat": [
+        "That"
+    ],
+    "t'hell": [
+        "to hell"
+    ],
+    "gowld": [
+        "gold"
+    ],
+    "driv": [
+        "drive"
+    ],
+    "nex'": [
+        "next"
+    ],
+    "'most": [
+        "almost"
+    ],
+    "Sho": [
+        "Sure"
+    ],
+    "t'ing": [
+        "thing"
+    ],
+    "'deed": [
+        "indeed"
+    ],
+    "'ell": [
+        "hell"
+    ],
+    "sho'ly": [
+        "surely"
+    ],
+    "spaihed": [],
+    "tahlk": [
+        "talk"
+    ],
+    "he'p": [
+        "help"
+    ],
+    "drest": [
+        "dressed"
+    ],
+    "broughten": [
+        "brought"
+    ],
+    "Drane": [],
+    "cettaintly": [
+        "certainty"
+    ],
+    "ag'n": [
+        "again"
+    ],
+    "weddin'-dress": [
+        "wedding-dress"
+    ],
+    "skeery": [
+        "scary"
+    ],
+    "hain't": [
+        "ain't"
+    ],
+    "'Praps": [],
+    "keer": [
+        "care"
+    ],
+    "lissenin'": [
+        "listening"
+    ],
+    "tek": [
+        "take"
+    ],
+    "achin'": [
+        "aching"
+    ],
+    "fuder'n": [
+        "further than"
+    ],
+    "wa'n't": [
+        "wasn't"
+    ],
+    "w'ite": [
+        "white"
+    ],
+    "fam'ly": [
+        "family"
+    ],
+    "neveh": [
+        "never"
+    ],
+    "yes'n": [],
+    "dessay": [
+        "daresay"
+    ],
+    "anyting": [
+        "anything"
+    ],
+    "mothahless": [
+        "motherless"
+    ],
+    "Tennissy": [
+        "Tennesse"
+    ],
+    "t'ank": [
+        "thank"
+    ],
+    "'spect": [
+        "expect"
+    ],
+    "'re": [
+        "are"
+    ],
+    "towld": [
+        "told"
+    ],
+    "neider": [
+        "neither"
+    ],
+    "un": [
+        "and"
+    ],
+    "'long": [
+        "along"
+    ],
+    "soap-bilin'": [],
+    "uv": [
+        "have"
+    ],
+    "Linkum": [],
+    "'teal": [
+        "steal"
+    ],
+    "oughter": [
+        "ought to"
+    ],
+    "stan'": [
+        "stand"
+    ],
+    "suh": [
+        "sir"
+    ],
+    "deliky-looking": [
+        "delicate-looking"
+    ],
+    "hongry": [
+        "hungry"
+    ],
+    "hevn't": [
+        "haven't"
+    ],
+    "me'n": [],
+    "h'yer": [
+        "here"
+    ],
+    "goin'": [
+        "going"
+    ],
+    "debbil's": [
+        "devil's"
+    ],
+    "roarin'": [
+        "roaring"
+    ],
+    "step-mothah": [
+        "step-mother"
+    ],
+    "Sho'ly": [
+        "surely"
+    ],
+    "pertect": [
+        "perfect"
+    ],
+    "yere": [
+        "here"
+    ],
+    "baith": [],
+    "somethin'": [
+        "something"
+    ],
+    "D'you": [
+        "Do you"
+    ],
+    "Debil": [
+        "devil"
+    ],
+    "lashin'": [
+        "lashing"
+    ],
+    "Confederit": [
+        "Confederate"
+    ],
+    "hev'ter": [
+        "have too"
+    ],
+    "vittils": [],
+    "e'se": [
+        "else"
+    ],
+    "comp'ny": [
+        "company"
+    ],
+    "na": [
+        "no"
+    ],
+    "kommin'": [
+        "coming"
+    ],
+    "sud'n": [
+        "sudden"
+    ],
+    "passin'": [
+        "passing"
+    ],
+    "cain't": [
+        "can't"
+    ],
+    "terbacker": [
+        "tobacco"
+    ],
+    "furrin'": [
+        "furring"
+    ],
+    "anyzing": [
+        "anything"
+    ],
+    "bringin'": [
+        "brining"
+    ],
+    "dese": [
+        "these"
+    ],
+    "Aweel": [
+        "Ah well"
+    ],
+    "onliest": [
+        "only"
+    ],
+    "S'posin'": [
+        "Supposing"
+    ],
+    "itse'f": [
+        "itself"
+    ],
+    "a'n't": [
+        "ain't"
+    ],
+    "befoah": [
+        "before"
+    ],
+    "wisht": [
+        "wished"
+    ],
+    "peopel": [
+        "people"
+    ],
+    "minnit": [
+        "minute"
+    ],
+    "'pend": [
+        "depend"
+    ],
+    "bress": [
+        "bless"
+    ],
+    "tew": [],
+    "beggin'": [
+        "begging"
+    ],
+    "Mebbe": [
+        "Maybe"
+    ],
+    "privett": [
+        "private"
+    ],
+    "'fect": [
+        "infect"
+    ],
+    "prettee": [
+        "pretty"
+    ],
+    "findin'": [
+        "finding"
+    ],
+    "harrum": [],
+    "our'n": [
+        "Our one"
+    ],
+    "rollin'": [
+        "rolling"
+    ],
+    "runnin'": [
+        "running"
+    ],
+    "ernough": [
+        "enough"
+    ],
+    "tryin'": [
+        "trying"
+    ],
+    "uz": [
+        "is"
+    ],
+    "Doin'": [
+        "Doing"
+    ],
+    "bonnie": [
+        "bonny"
+    ],
+    "workin'": [
+        "working"
+    ],
+    "Wuss'n": [
+        "Wasn't"
+    ],
+    "mought": [
+        "might"
+    ],
+    "divils": [
+        "devils"
+    ],
+    "somepin": [
+        "something"
+    ],
+    "a-goin": [
+        "a-going"
+    ],
+    "nevah": [
+        "never"
+    ],
+    "foolin'": [
+        "fooling"
+    ],
+    "Yes'n": [],
+    "I'specks": [
+        "I expects"
+    ],
+    "sich": [
+        "such"
+    ],
+    "aftha": [
+        "after"
+    ],
+    "typers": [],
+    "somewhar": [
+        "somewhere"
+    ],
+    "th'": [
+        "the"
+    ],
+    "havin'": [
+        "having"
+    ],
+    "massa": [
+        "master"
+    ],
+    "breavin'": [
+        "breathing"
+    ],
+    "sartin": [
+        "certain"
+    ],
+    "gipsy": [
+        "gypst"
+    ],
+    "dar's": [
+        "there's"
+    ],
+    "'spose": [
+        "suppose"
+    ],
+    "cunjered": [
+        "conjured"
+    ],
+    "'bliged": [
+        "obliged"
+    ],
+    "M'ree": [],
+    "Mist'r": [
+        "Mister"
+    ],
+    "afear'd": [
+        "afeared"
+    ],
+    "w'iskey": [
+        "whiskey"
+    ],
+    "skeered": [
+        "scared"
+    ],
+    "nuffin": [
+        "nothing"
+    ],
+    "jes'": [
+        "just"
+    ],
+    "ab't": [
+        "about"
+    ],
+    "Cemet'ry": [
+        "Cemetry"
+    ],
+    "lubbed": [
+        "loved"
+    ],
+    "b'ys": [
+        "boys"
+    ],
+    "pannyrammer": [],
+    "Fust": [
+        "First"
+    ],
+    "evenin'": [
+        "evening"
+    ],
+    "yuh": [
+        "you"
+    ],
+    "adventur'": [
+        "adventure"
+    ],
+    "sistahs": [
+        "sisters"
+    ],
+    "siller": [],
+    "whut": [
+        "what"
+    ],
+    "starvin'": [
+        "starving"
+    ],
+    "ober": [
+        "over"
+    ],
+    "ur": [
+        "or"
+    ],
+    "obleeged": [
+        "obliged"
+    ],
+    "on'y": [
+        "only"
+    ],
+    "talkin'": [
+        "talking"
+    ],
+    "ze": [
+        "the"
+    ],
+    "fiel'": [
+        "field"
+    ],
+    "Hored": [],
+    "'Taint": [
+        "It ain't"
+    ],
+    "blowin'": [
+        "blowing"
+    ],
+    "wuck": [
+        "work"
+    ],
+    "Mais": [],
+    "ferst": [
+        "first"
+    ],
+    "'er": [
+        "her"
+    ],
+    "losin'": [
+        "losing"
+    ],
+    "a-lookin'": [
+        "a-looking"
+    ],
+    "rheumatiz": [
+        "rheumatism"
+    ],
+    "a-tormentin'": [
+        "a-tormenting"
+    ],
+    "Layin'": [
+        "Laying"
+    ],
+    "lak": [
+        "like"
+    ],
+    "Bofe": [
+        "Both"
+    ],
+    "oder": [
+        "other"
+    ],
+    "'n'": [
+        "thing"
+    ],
+    "brudder": [
+        "brother"
+    ],
+    "yez": [
+        "you",
+        "your"
+    ],
+    "a-goin'": [
+        "a-going"
+    ],
+    "tellin'": [
+        "telling"
+    ],
+    "excep'": [
+        "except"
+    ],
+    "derned": [
+        "darned"
+    ],
+    "bloomin'": [
+        "blooming"
+    ],
+    "sufferin'": [
+        "suffering"
+    ],
+    "suppo't": [
+        "support"
+    ],
+    "heah": [
+        "hear"
+    ],
+    "'tain't": [
+        "it ain't"
+    ],
+    "satisfyin'": [
+        "satisfying"
+    ],
+    "fiddlin'": [
+        "fiddling"
+    ],
+    "s'pose": [
+        "suppose"
+    ],
+    "tol'": [
+        "told"
+    ],
+    "mek": [
+        "make"
+    ],
+    "Peerch": [],
+    "understan'": [
+        "understand"
+    ],
+    "Bress": [
+        "Bless"
+    ],
+    "inveiglin'": [],
+    "sae": [],
+    "Mis'": [
+        "Miss"
+    ],
+    "Yis": [
+        "Yes"
+    ],
+    "mist'ess": [
+        "mistress"
+    ],
+    "twell": [
+        "until"
+    ],
+    "disfigur'": [
+        "disfigure"
+    ],
+    "fust": [
+        "first"
+    ],
+    "'t": [
+        "it"
+    ],
+    "widder": [
+        "widow"
+    ],
+    "mornin": [
+        "morning"
+    ],
+    "'oman": [
+        "woman"
+    ],
+    "outen": [
+        "out of"
+    ],
+    "hev": [
+        "have"
+    ],
+    "Direckly": [
+        "Directly"
+    ],
+    "las'": [
+        "last"
+    ],
+    "W'ite": [
+        "White"
+    ],
+    "Norf": [
+        "North"
+    ],
+    "dus'": [],
+    "'Scuse": [
+        "excuse"
+    ],
+    "wuk": [
+        "work"
+    ],
+    "mekin'": [
+        "making"
+    ],
+    "woggle": [],
+    "a'tall": [
+        "at all"
+    ],
+    "haid": [
+        "head"
+    ],
+    "Gipsy": [
+        "Gypsy"
+    ],
+    "whull": [],
+    "groun'": [
+        "ground"
+    ],
+    "ye'self": [
+        "youself"
+    ],
+    "raison": [
+        "reason"
+    ],
+    "worl'": [
+        "world"
+    ],
+    "Yuh": [
+        "You"
+    ],
+    "'xpect": [
+        "expect"
+    ],
+    "carryin's": [
+        "carring's"
+    ],
+    "'Fore": [
+        "Before"
+    ],
+    "mass'r": [
+        "master"
+    ],
+    "ebber": [
+        "ever"
+    ],
+    "husban'": [
+        "husband"
+    ],
+    "Em'ly": [
+        "Emily"
+    ],
+    "wif": [
+        "with"
+    ],
+    "P'raps": [
+        "Perhaps"
+    ],
+    "Yas": [
+        "Yes"
+    ],
+    "truf": [
+        "truth"
+    ],
+    "allers": [
+        "always"
+    ],
+    "sendin'": [
+        "sending"
+    ],
+    "feelin'": [
+        "feeling"
+    ],
+    "perkuler": [
+        "perculiar"
+    ],
+    "shuh": [
+        "sure"
+    ],
+    "oughta": [
+        "ought to"
+    ],
+    "leab": [
+        "leave"
+    ],
+    "po'": [
+        "poor"
+    ],
+    "'Gene": [],
+    "Somefin'": [
+        "Something"
+    ],
+    "seein'": [
+        "seeing"
+    ],
+    "airth": [
+        "earth"
+    ],
+    "'cendiary": [
+        "incendiary"
+    ],
+    "mornin'": [
+        "morning"
+    ],
+    "weez": [
+        "with"
+    ],
+    "yev": [
+        "you've"
+    ],
+    "flutterin'": [
+        "fluttering"
+    ],
+    "criticisin'": [
+        "criticising"
+    ],
+    "nussed": [
+        "nursed"
+    ],
+    "weavin'": [
+        "weaving"
+    ],
+    "Niver": [],
+    "'em": [
+        "them"
+    ],
+    "hearn": [
+        "heard"
+    ],
+    "befo'": [
+        "before"
+    ],
+    "a'mos'": [
+        "almost"
+    ],
+    "orphants": [
+        "orphans"
+    ],
+    "clar": [
+        "clear"
+    ],
+    "Dic": [],
+    "matther": [
+        "matter"
+    ],
+    "secon'": [
+        "second"
+    ],
+    "Cunnel": [
+        "Colonel"
+    ],
+    "'Deed": [
+        "Indeed"
+    ],
+    "pleatin'": [],
+    "settin'": [
+        "setting"
+    ],
+    "partin'": [
+        "parting"
+    ],
+    "laughin'-stock": [
+        "laughing-stock"
+    ],
+    "coorse": [
+        "course"
+    ],
+    "leetle": [
+        "little"
+    ],
+    "spen'": [
+        "spend"
+    ],
+    "pritty": [
+        "pretty"
+    ],
+    "aftah": [
+        "after"
+    ],
+    "dinna": [
+        "didn't"
+    ],
+    "ironin'": [
+        "ironing"
+    ],
+    "'n": [
+        "than"
+    ],
+    "Bos'u'n": [],
+    "wastin'": [
+        "wasting"
+    ],
+    "Allus": [
+        "Always"
+    ],
+    "pris'ner": [
+        "prisoner"
+    ],
+    "shats": [],
+    "cal'lated": [],
+    "innercent": [
+        "innocent"
+    ],
+    "wo'thless": [
+        "worthless"
+    ],
+    "'sang": [],
+    "Hav'ley": [],
+    "off'n": [
+        "off an"
+    ],
+    "Marster's": [
+        "Master's"
+    ],
+    "not'ing": [
+        "nothing"
+    ],
+    "keepin": [
+        "keeping"
+    ],
+    "rebbin": [
+        "ribbon"
+    ],
+    "beliebe": [
+        "believe"
+    ],
+    "harse": [
+        "horse"
+    ],
+    "worrit": [],
+    "hyeh": [
+        "here"
+    ],
+    "railly": [
+        "really"
+    ],
+    "blest": [
+        "blessed"
+    ],
+    "doobt": [
+        "doubt"
+    ],
+    "'Spose": [
+        "Suppose"
+    ],
+    "childer": [
+        "children"
+    ],
+    "Aberlitionists": [
+        "Abolitionists"
+    ],
+    "'til": [
+        "until"
+    ],
+    "smoove-tongue'": [
+        "smooth-tongue"
+    ],
+    "wus": [
+        "was"
+    ],
+    "Waitin'": [
+        "Waiting"
+    ],
+    "Mebby": [
+        "Maybe"
+    ],
+    "S'pose": [
+        "Suppose"
+    ],
+    "ner": [
+        "nor"
+    ],
+    "meanin'": [
+        "meaning"
+    ],
+    "his'n": [],
+    "da": [
+        "you"
+    ],
+    "biccause": [
+        "because"
+    ],
+    "thoo": [
+        "through"
+    ],
+    "t'other": [
+        "the other"
+    ],
+    "whaw": [],
+    "a'most": [
+        "almost"
+    ],
+    "'prove": [
+        "approve"
+    ],
+    "Sha'n't": [
+        "Shan't"
+    ],
+    "shure": [
+        "sure"
+    ],
+    "naething": [
+        "nothing"
+    ],
+    "arternoon": [
+        "afternoon"
+    ],
+    "gre't": [
+        "great"
+    ],
+    "helpin'": [
+        "helping"
+    ],
+    "afo'": [
+        "afore"
+    ],
+    "deir": [
+        "their"
+    ],
+    "dem's": [
+        "them's"
+    ],
+    "gittin'": [
+        "getting"
+    ],
+    "cawd": [],
+    "fu'": [
+        "for"
+    ],
+    "a-prayin'": [
+        "a-praying"
+    ],
+    "swars": [
+        "swears"
+    ],
+    "dem": [
+        "them"
+    ],
+    "eve'ybody": [
+        "everybody"
+    ],
+    "'Tisn't": [
+        "It isn't"
+    ],
+    "'cause": [
+        "because"
+    ],
+    "'fraid": [
+        "afraid"
+    ],
+    "yander": [
+        "yonder"
+    ],
+    "nuttin": [
+        "nothing"
+    ],
+    "chanct": [
+        "chance"
+    ],
+    "ye'r": [
+        "you're"
+    ],
+    "ridin'": [
+        "riding"
+    ],
+    "'Lizabeth": [
+        "Elizabeth"
+    ],
+    "savin'": [
+        "saving"
+    ],
+    "rakin'": [
+        "raking"
+    ],
+    "spize": [
+        "despize"
+    ],
+    "Partin'": [
+        "Parting"
+    ],
+    "dieth": [],
+    "ingineeur": [],
+    "'fectious": [
+        "infectious"
+    ],
+    "bruders": [
+        "brothers"
+    ],
+    "hyah": [
+        "hear"
+    ],
+    "Lor'": [
+        "Lord"
+    ],
+    "yistiddy": [
+        "yesterday"
+    ],
+    "kem": [
+        "came"
+    ],
+    "libed": [
+        "lived"
+    ],
+    "Cantah": [],
+    "Befo'": [
+        "Before"
+    ],
+    "D'ye": [
+        "Do you"
+    ],
+    "cryin'": [
+        "crying"
+    ],
+    "suddint": [
+        "sudden"
+    ],
+    "'um": [
+        "them"
+    ],
+    "mistis": [
+        "mistress"
+    ],
+    "'but": [],
+    "waitin'": [
+        "waiting"
+    ],
+    "guid": [],
+    "Whar": [
+        "Where"
+    ],
+    "ghoses": [
+        "ghosts"
+    ],
+    "everyt'ing": [
+        "everything"
+    ],
+    "kivers": [],
+    "dar": [
+        "there"
+    ],
+    "'G'long": [
+        "Go along"
+    ],
+    "ees": [],
+    "ovuh": [
+        "over"
+    ],
+    "shet": [
+        "shut"
+    ],
+    "'ere": [
+        "here"
+    ],
+    "yaas": [
+        "yes"
+    ],
+    "nigger-lovin'": [
+        "nigger-loving"
+    ],
+    "'Bout": [
+        "About"
+    ],
+    "erlong": [
+        "along"
+    ],
+    "wid": [
+        "with"
+    ],
+    "wuks": [
+        "works"
+    ],
+    "mawnin'": [
+        "morning"
+    ],
+    "ag'in": [
+        "again"
+    ],
+    "hollerin'": [
+        "hollering"
+    ],
+    "afeerd": [
+        "afeared"
+    ],
+    "schule-marms": [
+        "school-ma'ams"
+    ],
+    "ago'n": [],
+    "buyin'": [
+        "buying"
+    ],
+    "villany": [
+        "villainy"
+    ],
+    "teches": [
+        "teaches"
+    ],
+    "dish-yere": [],
+    "'ternative": [
+        "alternative"
+    ],
+    "yistidy": [
+        "yesterday"
+    ],
+    "'casion": [
+        "occasion"
+    ],
+    "gran'boy": [
+        "grandboy"
+    ],
+    "foller": [
+        "follow"
+    ],
+    "onthankful": [
+        "unthankful"
+    ],
+    "meks": [
+        "makes"
+    ],
+    "h'yar": [
+        "here"
+    ],
+    "doct'r": [
+        "doctor"
+    ],
+    "ergin": [
+        "against"
+    ],
+    "'cept": [
+        "except"
+    ],
+    "massey": [
+        "mercey"
+    ],
+    "w'y": [
+        "why"
+    ],
+    "tinks": [
+        "thinks"
+    ],
+    "celebratin'": [
+        "celebrating"
+    ],
+    "afther": [
+        "after"
+    ],
+    "neber": [
+        "never"
+    ],
+    "huntin'": [
+        "hunting"
+    ],
+    "dyar": [
+        "there"
+    ],
+    "'twill": [
+        "it will"
+    ],
+    "Naws'": [],
+    "nothin'": [
+        "nothing"
+    ],
+    "erway": [
+        "away"
+    ],
+    "Ed'ards": [
+        "Edwards"
+    ],
+    "anither": [
+        "another"
+    ],
+    "measurin'": [
+        "measuring"
+    ],
+    "'round": [
+        "around"
+    ],
+    "pahnaship": [],
+    "Measurin'": [
+        "Measuring"
+    ],
+    "anymo'": [
+        "anymore"
+    ],
+    "'spectable": [
+        "respectable"
+    ],
+    "luve": [],
+    "chil'": [
+        "child"
+    ],
+    "'lone": [
+        "alone"
+    ],
+    "sho": [
+        "sure"
+    ],
+    "cur'osity": [
+        "curiosity"
+    ],
+    "fightin'": [
+        "fighting"
+    ],
+    "Mas'r": [
+        "Master"
+    ],
+    "bos'u'n's": [],
+    "T'ank": [
+        "Thank"
+    ],
+    "sacurd": [
+        "sacred"
+    ],
+    "kivered": [
+        "covered"
+    ],
+    "furder": [
+        "further"
+    ],
+    "capt'n": [
+        "captain"
+    ],
+    "hersel": [
+        "herself"
+    ],
+    "'void": [
+        "avoid"
+    ],
+    "han'": [
+        "hand"
+    ],
+    "Cocoanut": [],
+    "a-bein'": [
+        "a-being"
+    ],
+    "jis'": [
+        "just"
+    ],
+    "Munday-save": [
+        "Monday-save"
+    ],
+    "Ghosteses": [],
+    "wah": [
+        "war"
+    ],
+    "cullud": [
+        "colored"
+    ],
+    "briled": [],
+    "har": [
+        "hear"
+    ],
+    "'thout": [
+        "without"
+    ],
+    "tearin'": [
+        "tearing"
+    ],
+    "yehs": [
+        "yes"
+    ],
+    "lookin'": [
+        "looking"
+    ],
+    "hissef": [
+        "hisself"
+    ],
+    "'pears": [
+        "appears"
+    ],
+    "Mistis": [
+        "mistress"
+    ],
+    "tuk": [
+        "took"
+    ],
+    "a-dyin'": [
+        "a-dying"
+    ],
+    "'is": [
+        "his"
+    ],
+    "y'ur": [
+        "your"
+    ],
+    "skeercely": [
+        "scarcely"
+    ],
+    "mouf": [
+        "mouth"
+    ],
+    "hunderd": [
+        "hundred"
+    ],
+    "knowin'": [
+        "knowing"
+    ],
+    "zeese": [
+        "these"
+    ],
+    "ev'y": [
+        "every"
+    ],
+    "Mahs'": [
+        "Master"
+    ],
+    "suz": [],
+    "wo'k": [
+        "work"
+    ],
+    "bein'": [
+        "being"
+    ],
+    "'fesser": [],
+    "caah": [
+        "car"
+    ],
+    "pooty": [
+        "pretty"
+    ],
+    "movin'": [
+        "moving"
+    ],
+    "thinkin'": [
+        "thinking"
+    ],
+    "scart": [],
+    "Gittin'": [
+        "Gitting"
+    ],
+    "'low": [
+        "allow"
+    ],
+    "cint": [
+        "cent"
+    ],
+    "breck": [
+        "break"
+    ],
+    "pusson": [
+        "person"
+    ],
+    "'spected": [
+        "expected"
+    ],
+    "bettah": [
+        "better"
+    ],
+    "'nough": [
+        "enough"
+    ],
+    "trillin'": [],
+    "a-drapped": [],
+    "cookin'": [
+        "cooking"
+    ],
+    "some'n'": [
+        "something"
+    ],
+    "'im": [
+        "him"
+    ],
+    "Dats": [
+        "That's"
+    ],
+    "offen": [
+        "often"
+    ],
+    "heer": [
+        "here"
+    ],
+    "beatin'": [
+        "beating"
+    ],
+    "marse": [
+        "master"
+    ],
+    "Lawd": [
+        "Lord"
+    ],
+    "Whils'": [
+        "Whilst"
+    ],
+    "aff": [
+        "off"
+    ],
+    "gran'mam's": [
+        "grandmam's"
+    ],
+    "Tukky": [
+        "Turkey"
+    ],
+    "wimmin": [
+        "women"
+    ],
+    "zay": [
+        "they"
+    ],
+    "yo'sef": [
+        "yourself"
+    ],
+    "partic'lar": [
+        "particular"
+    ],
+    "masther's": [
+        "master's"
+    ],
+    "missie": [
+        "missy"
+    ],
+    "atter": [
+        "after"
+    ],
+    "breakfas'": [
+        "breakfast"
+    ],
+    "jists": [
+        "joists"
+    ],
+    "noder": [
+        "another"
+    ],
+    "Misther": [
+        "Mister"
+    ],
+    "b'leeve": [
+        "believe"
+    ],
+    "cowld": [
+        "cold"
+    ],
+    "tink": [
+        "think"
+    ],
+    "roun'": [
+        "round"
+    ],
+    "datter": [
+        "dat"
+    ],
+    "thawt": [
+        "thought"
+    ],
+    "sintenced": [
+        "sentenced"
+    ],
+    "comin'": [
+        "coming"
+    ],
+    "alookin'": [
+        "alooking"
+    ],
+    "'Twas": [
+        "It was"
+    ],
+    "thievin'": [
+        "thieving"
+    ],
+    "'T": [
+        "It"
+    ],
+    "yoah": [
+        "you're"
+    ],
+    "gintleman": [
+        "gentleman"
+    ],
+    "sneakin'": [
+        "sneaking"
+    ],
+    "sha'n't": [
+        "shalln't"
+    ],
+    "suthin'": [
+        "something"
+    ],
+    "'speck": [
+        "expect"
+    ],
+    "keerful": [
+        "careful"
+    ],
+    "agettin'": [
+        "agetting"
+    ],
+    "Yas'm": [],
+    "boardin'-houses": [
+        "boarding-houses"
+    ],
+    "cyore": [],
+    "apern": [],
+    "jist": [
+        "just"
+    ],
+    "whar": [
+        "where"
+    ],
+    "chillens": [
+        "childrens"
+    ],
+    "quick'n": [
+        "quick and"
+    ],
+    "Marster": [
+        "Master"
+    ],
+    "childhren": [
+        "children"
+    ],
+    "'ud": [
+        "would"
+    ],
+    "reskeed": [
+        "rescued"
+    ],
+    "Lorfull": [],
+    "'Spect": [
+        "Expect"
+    ],
+    "yoost": [],
+    "Unc'": [
+        "Uncle"
+    ],
+    "buryin'": [
+        "burying"
+    ],
+    "walkin'": [
+        "walking"
+    ],
+    "lef'": [
+        "left"
+    ],
+    "h'if": [
+        "if"
+    ],
+    "Wanter": [
+        "Want to"
+    ],
+    "raskil": [
+        "rascal"
+    ],
+    "yuh's": [
+        "you has"
+    ],
+    "forrit": [],
+    "Poh": [
+        "Poor"
+    ],
+    "Nasah": [],
+    "want'n'": [
+        "wanting"
+    ],
+    "mout": [
+        "might"
+    ],
+    "prutty": [
+        "pretty"
+    ],
+    "bleeged": [
+        "obliged"
+    ],
+    "aberlition": [
+        "abolition"
+    ],
+    "better'n": [
+        "better than"
+    ],
+    "Ki-yi": [],
+    "'sense": [],
+    "tumblin'": [
+        "tumbling"
+    ],
+    "jes": [
+        "just"
+    ],
+    "dere": [
+        "there",
+        "their"
+    ],
+    "v'y'ges": [
+        "voyages"
+    ],
+    "bean't": [],
+    "'bleeged": [
+        "obliged"
+    ],
+    "lyin'": [
+        "lying"
+    ],
+    "los'": [
+        "lost"
+    ],
+    "toof": [
+        "tooth"
+    ],
+    "par'ble": [
+        "parable"
+    ],
+    "Melissy": [
+        "Melissa"
+    ],
+    "'pinion": [
+        "opinion"
+    ],
+    "blockin'": [
+        "blocking"
+    ],
+    "childern": [
+        "children"
+    ],
+    "what't": [
+        "what it"
+    ],
+    "defendin'": [
+        "defending"
+    ],
+    "monst'ous": [
+        "monstrous"
+    ],
+    "heerd": [
+        "heard"
+    ],
+    "useter": [
+        "use to"
+    ],
+    "togedder": [
+        "together"
+    ],
+    "'twas": [
+        "it was"
+    ],
+    "a-kickin'": [
+        "a-kicking"
+    ],
+    "lovin'": [
+        "loving"
+    ],
+    "'ain't": [
+        "ain't"
+    ],
+    "Mahs'r": [
+        "Master"
+    ],
+    "shorely": [
+        "surely"
+    ],
+    "niggehs": [
+        "niggers"
+    ],
+    "nuff": [
+        "enough"
+    ],
+    "nebber": [
+        "never"
+    ],
+    "forgib": [
+        "forgive"
+    ],
+    "yeller": [
+        "yellow"
+    ],
+    "'Tis": [
+        "It is"
+    ],
+    "sogers": [],
+    "eber": [
+        "ever"
+    ],
+    "ould": [
+        "old"
+    ],
+    "cap'n": [
+        "captain"
+    ],
+    "thankin'": [
+        "thanking"
+    ],
+    "auld": [
+        "old"
+    ],
+    "bofe": [
+        "both"
+    ],
+    "deh": [
+        "they"
+    ],
+    "growed": [
+        "grew"
+    ],
+    "'nuther": [
+        "another"
+    ],
+    "prayin'": [
+        "praying"
+    ],
+    "du": [
+        "do"
+    ],
+    "P'int": [
+        "Point"
+    ],
+    "nuffin'": [
+        "nothing"
+    ],
+    "feelin's": [
+        "feelings"
+    ],
+    "Lawd's": [
+        "Lords"
+    ],
+    "Ever'day": [
+        "Everyday"
+    ],
+    "leddy": [],
+    "leettle": [
+        "little"
+    ],
+    "knittin'": [
+        "knitting"
+    ],
+    "Marm": [
+        "Ma'am"
+    ],
+    "Nebber": [
+        "Never"
+    ],
+    "'nd": [
+        "and"
+    ],
+    "sittin'": [
+        "sitting"
+    ],
+    "vay": [
+        "way"
+    ],
+    "doin's": [
+        "doings"
+    ],
+    "wha": [
+        "what"
+    ],
+    "Vell": [
+        "well"
+    ],
+    "'tected": [
+        "suspected"
+    ],
+    "'member": [
+        "remember"
+    ],
+    "'count": [],
+    "huzzy": [],
+    "chawin'": [],
+    "Wurra": [],
+    "darlin'": [
+        "darling"
+    ],
+    "mah'ed": [
+        "married"
+    ],
+    "nuther": [
+        "another"
+    ],
+    "minit": [
+        "minite"
+    ],
+    "'twould": [
+        "it would"
+    ],
+    "livin'": [
+        "living"
+    ],
+    "hyar": [
+        "here"
+    ],
+    "mazin": [],
+    "a-fetchin'": [
+        "a-fetching"
+    ],
+    "moughty": [
+        "mighty"
+    ],
+    "Lor": [
+        "Lord"
+    ],
+    "soun'": [
+        "sound"
+    ],
+    "Ef": [
+        "If"
+    ],
+    "wishin'": [
+        "wishing"
+    ],
+    "Dere": [
+        "Theere"
+    ],
+    "Hosses": [],
+    "Ildegonda": [],
+    "corpe": [
+        "corpse"
+    ],
+    "stayin'": [
+        "staying"
+    ],
+    "Purty": [
+        "Pretty"
+    ],
+    "'Tain't": [
+        "It ain't"
+    ],
+    "out'n": [
+        "out of"
+    ],
+    "evah": [
+        "ever"
+    ],
+    "Loudon": [],
+    "doin'": [
+        "doing"
+    ],
+    "quare": [
+        "queer"
+    ],
+    "y'ain't": [
+        "you ain't"
+    ],
+    "im": [
+        "him"
+    ],
+    "mesilf": [
+        "myself"
+    ],
+    "frinds": [
+        "friends"
+    ],
+    "willin'": [
+        "willing"
+    ],
+    "Mistah": [
+        "Mister"
+    ],
+    "ernuff": [
+        "enough"
+    ],
+    "y'r": [
+        "your"
+    ],
+    "fixins": [],
+    "bes'": [
+        "best"
+    ],
+    "gettin'": [
+        "getting"
+    ],
+    "Jedgmen": [
+        "Judgement"
+    ],
+    "yo'all": [
+        "you all"
+    ],
+    "mighta": [
+        "might have"
+    ],
+    "f'om": [
+        "from"
+    ],
+    "none'er": [],
+    "kaze": [
+        "in case"
+    ],
+    "Yeh'll": [
+        "You'll"
+    ],
+    "j'int": [
+        "joint"
+    ],
+    "Iv'e": [
+        "I've"
+    ],
+    "somefin'": [
+        "something"
+    ],
+    "ve'y": [
+        "very"
+    ],
+    "yeer": [
+        "year"
+    ],
+    "mou'ful": [
+        "mouthful"
+    ],
+    "yuh'd": [
+        "you'd"
+    ],
+    "'Melia": [
+        "Amelia"
+    ],
+    "ter'ble": [
+        "ter'ble"
+    ],
+    "argify": []
+}
